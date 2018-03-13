@@ -1,2 +1,2 @@
 # trello-clone
-A trello-like card management web app using pure javascript
+A trello-like roadmap web app using pure javascript
